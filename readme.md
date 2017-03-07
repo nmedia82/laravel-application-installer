@@ -33,7 +33,7 @@ Make sure to delete the install directory after successfull installation.
 
 ```
 Laravel 5.3
-PHP 5.5.4
+PHP 5.6.4
 ```
 
 ## Screenshots
