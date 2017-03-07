@@ -38,6 +38,6 @@ PHP 5.5.4
 
 ## Screenshots
 
-![Laravel Application installer]('images/screen-1.jpg')
+![Laravel Application installer](images/screen-1.jpg)
 ![Laravel Application installer](images/screen-2.jpg)
 ![Laravel Application installer](images/screen-3.jpg)
