@@ -31,6 +31,6 @@ Make sure to delete the install directory after successfull installation.
 
 ## Screenshots
 
-![Laravel Application installer](https://theproductionarea.net/wp-content/uploads/2017/03/screen-1.jpg)
+![Laravel Application installer]('https://theproductionarea.net/wp-content/uploads/2017/03/screen-1.jpg')
 ![Laravel Application installer](https://theproductionarea.net/wp-content/uploads/2017/03/screen-2.jpg)
 ![Laravel Application installer](https://theproductionarea.net/wp-content/uploads/2017/03/screen-3.jpg)
