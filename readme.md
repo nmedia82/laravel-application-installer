@@ -25,12 +25,19 @@ DB_USERNAME=_DB_USER_
 DB_PASSWORD=_DB_PASS_
 ```
 
-Then, copy the install directory in root of project, then navigate to project/install
+Then, copy the install directory in root of project, and navigate to project/install
 
 Make sure to delete the install directory after successfull installation.
 
+## Requirements
+
+```
+Laravel 5.3
+PHP 5.5.4
+```
+
 ## Screenshots
 
-![Laravel Application installer]('https://theproductionarea.net/wp-content/uploads/2017/03/screen-1.jpg')
-![Laravel Application installer](https://theproductionarea.net/wp-content/uploads/2017/03/screen-2.jpg)
-![Laravel Application installer](https://theproductionarea.net/wp-content/uploads/2017/03/screen-3.jpg)
+![Laravel Application installer]('images/screen-1.jpg')
+![Laravel Application installer](images/screen-2.jpg)
+![Laravel Application installer](images/screen-3.jpg)
